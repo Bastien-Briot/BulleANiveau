@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BulleANiveau</string>
+    <string name="crosshair">Crosshair</string>
+    <string name="bulle">bulle</string>
 </resources>

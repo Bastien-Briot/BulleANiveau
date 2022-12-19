@@ -35,4 +35,6 @@
         android:id="@+id/IV_Rec"
         android:src="@drawable/rond_rouge"
         android:contentDescription="@string/bulle" />
+
 </RelativeLayout>
+
